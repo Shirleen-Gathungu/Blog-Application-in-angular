@@ -1,0 +1,53 @@
+/* 
+html{
+  background-color: blueviolet;
+margin-top: -3%;
+margin-left: -3%;
+margin-right: -3%;
+ padding: 192px;
+} */
+
+
+nav {
+    float: right;
+    text-align: right;
+    position: relative;
+  
+
+}
+  /* Style the links inside the navigation bar */
+  nav a {
+   
+    color: black;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+  }
+  
+  /* Change the color of links on hover */
+    nav a:hover {
+    background-color:transparent;
+   
+       
+  }
+
+nav img{
+    margin: 0.5% -51%;
+    width: 19%;
+    float: left;
+}
+button{
+  border-radius: 75px;
+  padding: 9.6px 1px;
+  background-color: black;
+  border-radius: 22px;
+  border:0px solid black ;
+  
+}
+button a{
+  color: white;
+}
+span hr{
+  width: 1266px;
+ 
+}
